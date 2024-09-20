@@ -14,7 +14,7 @@ The scope includes building a complete Ticket System for Cloud Provisioning, inc
 **Architecture & Interfaces:**
 - **Frontend:** ReactJS will be used for the user interface.
 - **Backend:** The system will follow the Model-View-Controller (MVC) pattern and use REST-compliant web services over HTTPS for client-server communication.
-- **Data Handling:** JSON, CSV, and ASCII will be supported for data formats.
+- **Data Handling:** JSON and CSV will be supported for data formats.
 - **Security:** All communications will be secured using SSL/TLS protocols.
 
 **Operating Environment:**
